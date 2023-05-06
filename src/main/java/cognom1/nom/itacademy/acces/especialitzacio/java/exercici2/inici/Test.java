@@ -5,7 +5,6 @@ import Ruiz.Raul.itacademy.acces.especialitzacio.java.exercici2.entitats.Mentor;
 import Ruiz.Raul.itacademy.acces.especialitzacio.java.exercici2.entitats.Persona;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Test {
 
